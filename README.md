@@ -1,2 +1,2 @@
-# HelloWorld
-This is my first repository!
+# A little insight into Rico C
+Hello
